@@ -1,6 +1,0 @@
-first
-<<<<<<< HEAD
-second
-third
-=======
->>>>>>> parent of f8db015 (2)
